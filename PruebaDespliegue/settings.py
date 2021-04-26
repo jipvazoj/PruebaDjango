@@ -25,7 +25,7 @@ SECRET_KEY = '11cc8bfa-7ded-4827-a377-bb5856c5340a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['vspython-test-02.azurewebsites.net','localhost']
+ALLOWED_HOSTS = ['vspython-test-02.azurewebsites.net','localhost','djangohads2019.azurewebsites.net']
 
 # Application references
 # https://docs.djangoproject.com/en/2.1/ref/settings/#std:setting-INSTALLED_APPS
